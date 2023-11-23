@@ -9,4 +9,5 @@
 ## 考核
 * [阶段1考核](https://githubfast.com/Zzzz-yx/Tasks/tree/62ae47fb4e113ebe74d94324e15a75d92ef9ff25/%E9%98%B6%E6%AE%B51%E8%80%83%E6%A0%B8)
 * [阶段2考核](https://githubfast.com/Zzzz-yx/Tasks/tree/74f2d1e9cb38c8699c6b09e53ddef76095457639/%E9%98%B6%E6%AE%B52%E8%80%83%E6%A0%B8)
+* [阶段3考核](https://githubfast.com/Zzzz-yx/Tasks/tree/4e08c75eb8de58a462b9f7360dec2edc6f12b5f1/%E9%98%B6%E6%AE%B5%E4%B8%89%E8%80%83%E6%A0%B8)
 
