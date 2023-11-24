@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background: beige;
+    line-height: 60px;
+    padding: 15px;
+}
+.logo{
+    float: left;
+    font-size: 24px;
+    color :black;
+    font-weight: bold;
+    line-height: 60px;
+}
+.clearfix::after{
+    content: "";
+    display: block;
+    clear: both;
+}
+.nav{
+    float: right;
+}
+.nav li{
+    width: 120px;
+    text-align: center;
+    font-size: 16px;
+    display: inline-block;
+}
+ul li{
+    list-style-type: none;
+}
+.nav li a{
+    color: black;
+}
+a{
+    text-decoration: none;
+}
+img{
+    border: none;
+}
+.all{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.all1{
+    display: block;
+}
+.all1 img{
+    width: 100%;
+    display: block;
+    height: 500px;
+    padding: 15px;
+}
+.all3{
+    background: azure;
+    padding: 30px;
+    display: block;
+}
+.all2 img{
+    float: left;
+    width: 300px;
+    height: 350px;
+}
+.all2 .text{
+    line-height: 26px;
+    float: right;
+    width: 650px;
+}
+a{
+    cursor: pointer;
+    color: #333;
+    text-decoration: none;
+    outline: none;
+}
+.text1{
+    line-height: 26px;
+    color: #333;
+}
+.text1 img {
+    margin-left: 15px;
+}
+.title{
+    background: darkorange;
+    line-height: 40px;
+    padding: 0 15px;
+    margin: 20px 0;
+}
+.all4{
+    background: azure;
+    padding: 15px;
+}
+.all4 img{
+    float: right;
+    width: 200px;
+    height: 200%;
+    display: block;
+}
