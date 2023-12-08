@@ -11,4 +11,4 @@
 * [阶段2考核](https://githubfast.com/Zzzz-yx/Tasks/tree/74f2d1e9cb38c8699c6b09e53ddef76095457639/%E9%98%B6%E6%AE%B52%E8%80%83%E6%A0%B8)
 * [阶段3考核](https://githubfast.com/Zzzz-yx/Tasks/tree/953f6be06e4f59fd02460e2c1b3bfee57805e937/%E9%98%B6%E6%AE%B5%E4%B8%89%E8%80%83%E6%A0%B8)
 ## 网站
-* [Geek](https://zzzz-yx.github.io/）
+* [Geek](https://zzzz-yx.github.io/)
